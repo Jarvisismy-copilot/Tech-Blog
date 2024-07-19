@@ -41,6 +41,7 @@ This is a tech blog where developers can create an account, log in, create posts
 ## Screenshots
 
 >>> Edit **
+
 [Screen_Shot.1] (add Screenhot 1.0)
 
 [Screen_Shot.2] (add Screenhot 2.0)
