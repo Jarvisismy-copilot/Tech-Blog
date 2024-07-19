@@ -61,16 +61,12 @@ ______________________________________________________________________________
   
 ## Built-With
 
->>>
-- Edit **
+>>> - Edit ** 
 
 ## Tests 
 
-To run tests, run 
+>>> - Edit ** If Necessary... 
 
-"node index.js"
-
-in the terminal.
 
 ## Credits 
 
