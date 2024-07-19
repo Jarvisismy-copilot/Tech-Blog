@@ -3,14 +3,9 @@
 ## Description
 
 >>> Concept = *edit
-
- A tech blog that allows users to create an account, log in, create posts, edit posts, delete posts, comment on posts, and view other users' posts.
-
-This project is similar to a wordpress site, where developers in the tech industry can publish their blog posts. Also, developers can comment on other posts on the web page. 
-
 >>> Ideally
 
-This app follows the MVC that uses technologies like handlebars, node js, mysql, sequelize and other npm packages.
+This is a tech blog where developers can create an account, log in, create posts, edit posts, delete posts, comment on posts, and view other users' posts.
   
   ## Table of Contents 📖
   
