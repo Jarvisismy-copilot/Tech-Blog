@@ -2,8 +2,6 @@
 
 ## Description
 
->>> Concept = *edit
->>> Ideally
 
 This is a tech blog where developers can create an account, log in, create posts, edit posts, delete posts, comment on posts, and view other users' posts.
   
@@ -31,22 +29,18 @@ This is a tech blog where developers can create an account, log in, create posts
   
   ## Usage 
 
->>> Edit **
+>>> 
 
 ## Links
 
->>> Edit **
 [Screen_Recording] (add Google Drive link)
 
 ## Screenshots
-
->>> Edit **
 
 [Screen_Shot.1] (add Screenhot 1.0)
 
 [Screen_Shot.2] (add Screenhot 2.0)
 
->>> If Neccessary... 
 
 ______________________________________________________________________________
 
@@ -57,12 +51,12 @@ ______________________________________________________________________________
   
 ## Built-With
 
->>> - Edit ** 
+- JavaScript
+- Handlebars 
 
 ## Tests 
 
->>> - Edit ** If Necessary... 
-
+>>>
 
 ## Credits 
 
